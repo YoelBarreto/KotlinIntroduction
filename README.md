@@ -1,4 +1,4 @@
-![Kotlin_logo_2021 svg](https://github.com/user-attachments/assets/93c3dc4b-8aa0-4aea-9dcb-b4295a1f645c)
+![kotlin](https://github.com/user-attachments/assets/23e52727-0c14-4d90-a321-224754a584dc)
 
 # Introducción a Kotlin.
 
